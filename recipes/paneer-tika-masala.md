@@ -18,7 +18,7 @@ permalink: /recipes/paneer-tika-masala
 * 2 Tbsp Garam Masala
 * 3 Tsp Cumin Powder
 * 2 Tsp Coriander Powder
-* 1 Tsp Curry Leaf Powder
+* 2 Tsp Curry Leaf Powder
 * 1 Tsp Turmeric Powder
 * 1 Tsp Chile Powder
 
@@ -31,11 +31,12 @@ permalink: /recipes/paneer-tika-masala
 
 ### Procedure
 
-1. Slice the paneer cheese into cubes (approximately 1 cubic centimeter or smaller)
-2. Remove the seeds from the peppers and slice to a similar size as the cubed cheese
-3. Combine all of the marinade ingredients with ***half*** of the spice blend, save the rest of the spice blend for later.
-4. Coat the cheese and peppers thoroughly with the yoghurt marinade. 
-5. Store the marinating cheese and peppers in the fridge overnight, or for at least several hours.
+1. Mix together all of the spice blend ingredients. 
+2. Slice the paneer cheese into cubes (approximately 1 cubic centimeter or smaller)
+3. Remove the seeds from the peppers and slice to a similar size as the cubed cheese
+4. Combine all of the marinade ingredients with ***half*** of the spice blend, save the rest of the spice blend for later.
+5. Coat the cheese and peppers thoroughly with the yoghurt marinade. 
+6. Store the marinating cheese and peppers in the fridge overnight, or for at least several hours.
 
 ## Phase 2 - Cooking
 
