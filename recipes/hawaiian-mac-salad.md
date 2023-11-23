@@ -17,3 +17,7 @@ permalink: /hawaiian-mac-salad
 * ¼ teaspoon pepper
 
 ## Procedure 
+
+1. Cook the elbow macaroni pasta for 1-2 minutes more than the cook time listed on the package. Drain and set aside.
+2. Place the elbow macaroni in a bowl and mix in the mayonnaise, grated onions, shredded carrots, finely diced celery, salt, and pepper.
+3. Refrigerate the dish at least an hour - this allows the flavors to mix. Serve slightly chilled (remove from the refrigerator 10 minutes before serving) as a side dish. Enjoy!
