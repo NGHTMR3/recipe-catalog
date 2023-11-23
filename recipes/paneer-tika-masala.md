@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Paneer Tika Masala
-permalink: /recipes/paneer-tika-masala
+permalink: /paneer-tika-masala
 ---
 
 # Paneer Tika Masala
