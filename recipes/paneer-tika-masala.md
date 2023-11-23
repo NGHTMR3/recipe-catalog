@@ -60,7 +60,7 @@ permalink: /paneer-tika-masala
 5. Add the onions and garlic then saute for 6 minutes, add 0.5 tsp salt
 7. Add the cashews and continue to saute until the onions are caramelized (brown)
 8. Add the canned tomatoes, and mix.
-9. Simmer the whole mixture for 30 minutes on low heat
+9. Cover and simmer the whole mixture for 30 minutes on low heat, stir occasionally during this time 
 10. Turn off the heat and allow to cool for 30 minutes
 11. Using a blender or immersion blender, blend until smooth
 12. Pre-heat the oven to 450F/230C (use convection if available)
