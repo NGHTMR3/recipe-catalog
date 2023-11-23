@@ -61,6 +61,14 @@ permalink: /recipes/paneer-tika-masala
 9. Simmer the whole mixture for 30 minutes on low heat
 10. Turn off the heat and allow to cool for 30 minutes
 11. Using a blender or immersion blender, blend until smooth
-12. Pre-heat the oven to 450F/230C
+12. Pre-heat the oven to 450F/230C (user convection if available)
+13. Place a sheet of parchment paper on a baking tray
+14. Spread the cheese and peppers onto the baking tray in a thin layer
+15. Roast for 10 minutes
+16. Turn over the cheese cubes and peppers
+17. Switch the oven to High Broil mode, and move rack to second highest position
+18. Broil the cheese and peppers for 4 minutes
+19. Remove the cheese and peppers from the oven and add to the pot. 
+20. Simmer for at least 20 minutes and serve
 
 
