@@ -6,7 +6,7 @@ permalink: /chocolate-chip-cookies
 
 # Chocolate Chip Cookies
 
-Based on this [video](https://youtu.be/kPauR6tP_cg) from Dessert Person
+[Source](https://youtu.be/kPauR6tP_cg)
 
 ## Ingredients
 * 2 sticks unsalted butter (8 oz / 227g), cut into tablespoons
