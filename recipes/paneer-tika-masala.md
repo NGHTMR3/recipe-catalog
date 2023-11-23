@@ -46,4 +46,21 @@ permalink: /recipes/paneer-tika-masala
 * 1 can Tomatoes
 * 1 Onion
 * 1 Tbsp Garlic
+* 1 Tbsp Ghee
 * Spice blend (already prepared in phase 1)
+
+### Procedure
+
+1. Dice the onion
+2. Pre-heat a large/medium pot on medium-high heat
+3. Place the ghee into the pot while it is heating
+4. Fry the remaining spice blend in the ghee for approximately 1.5 minutes, stir vigorously.
+5. Add the onions and garlic then saute for 6 minutes
+7. Add the cashews and continue to saute until the onions are caramelized (brown)
+8. Add the canned tomatoes, and mix.
+9. Simmer the whole mixture for 30 minutes on low heat
+10. Turn off the heat and allow to cool for 30 minutes
+11. Using a blender or immersion blender, blend until smooth
+12. Pre-heat the oven to 450F/230C
+
+
