@@ -46,8 +46,10 @@ permalink: /paneer-tika-masala
 * 1 can Tomatoes
 * 1 Onion
 * 1 Tbsp Garlic
-* 1 Tbsp Ghee
-* Spice blend (already prepared in phase 1)
+* 2 Tbsp Ghee
+* Salt
+* Spice blend (from phase 1)
+* Cubed & Marinated Paneer and Peppers (from phase 1)
 
 ### Procedure
 
@@ -55,13 +57,13 @@ permalink: /paneer-tika-masala
 2. Pre-heat a large/medium pot on medium-high heat
 3. Place the ghee into the pot while it is heating
 4. Fry the remaining spice blend in the ghee for approximately 1.5 minutes, stir vigorously.
-5. Add the onions and garlic then saute for 6 minutes
+5. Add the onions and garlic then saute for 6 minutes, add 0.5 tsp salt
 7. Add the cashews and continue to saute until the onions are caramelized (brown)
 8. Add the canned tomatoes, and mix.
-9. Simmer the whole mixture for 30 minutes on low heat
+9. Cover and simmer the whole mixture for 30 minutes on low heat, stir occasionally during this time 
 10. Turn off the heat and allow to cool for 30 minutes
 11. Using a blender or immersion blender, blend until smooth
-12. Pre-heat the oven to 450F/230C (user convection if available)
+12. Pre-heat the oven to 450F/230C (use convection if available)
 13. Place a sheet of parchment paper on a baking tray
 14. Spread the cheese and peppers onto the baking tray in a thin layer
 15. Roast for 10 minutes
@@ -69,6 +71,6 @@ permalink: /paneer-tika-masala
 17. Switch the oven to High Broil mode, and move rack to second highest position
 18. Broil the cheese and peppers for 4 minutes
 19. Remove the cheese and peppers from the oven and add to the pot. 
-20. Simmer for at least 20 minutes and serve
+20. Simmer for at least 20 minutes, add additional salt if needed
 
 
